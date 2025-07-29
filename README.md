@@ -37,7 +37,8 @@ class AboutMe extends Developer{
   }
   
   currentWork(){
-    return this.freelance ? 'Building scalable systems':'Open to new challenges';
+    return this.freelance ? 'Building scalable systems':
+    'Open to new challenges';
   }
 }
 ```
