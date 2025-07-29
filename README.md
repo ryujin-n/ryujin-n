@@ -20,13 +20,14 @@
 
 ###
 
-<img style="@media (max-width: 768px) { #profile-gif { display: none; }" align="right" height="310" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRtaXZ2dnhlMHV1ZXZ2bXJoNTZ4eDUxc3F4MGM4MTRzZTNzNHEwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpBzI2mSpQGni7MREG/giphy.gif"  />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRtaXZ2dnhlMHV1ZXZ2bXJoNTZ4eDUxc3F4MGM4MTRzZTNzNHEwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpBzI2mSpQGni7MREG/giphy.gif" min-width="320px" max-width="320px" width="320px" align="right">
 
 ###
 
+<p align="left">
+  
 ```c#
 import Developer from 'ryujin-p';
-
 class AboutMe extends Developer{
   constructor(){
     super({
@@ -41,7 +42,10 @@ class AboutMe extends Developer{
     'Open to new challenges';
   }
 }
+
 ```
+</p>
+
 ###
 
 <h2 align="left">{} Stacks</h2>
