@@ -20,13 +20,11 @@
 
 ###
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRtaXZ2dnhlMHV1ZXZ2bXJoNTZ4eDUxc3F4MGM4MTRzZTNzNHEwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpBzI2mSpQGni7MREG/giphy.gif" min-width="310px" max-width="310px" width="310px" align="right">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdkcjBuczIwbnk0dnR6bDBpaDZrcWgybHM3c3R2NXJyenBvbmwxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpBzI2mSpQGni7MREG/giphy.gif" alt="Capa do álbum METEORA do Linkin Park" min-width="300px" max-width="300px" width="300px" align="right">
 
-###
-
-<p align="left">
+<p align="left"> 
   
-```c#
+```csharp
 import Developer from 'ryujin-p';
 class AboutMe extends Developer{
   constructor(){
@@ -42,8 +40,7 @@ class AboutMe extends Developer{
     'Open to new challenges';
   }
 }
-
-```
+````
 </p>
 
 ###
