@@ -3,12 +3,15 @@
 </div>
 
 ###
-
-<h1 align="center">Hey there 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Miles!;" />
 
 ###
 
-<div align="left">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+
+<div align="right">
   <a href="https://www.linkedin.com/in/miles-jesus-1179281b4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -16,36 +19,23 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdkcjBuczIwbnk0dnR6bDBpaDZrcWgybHM3c3R2NXJyenBvbmwxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpBzI2mSpQGni7MREG/giphy.gif" alt="Capa do álbum METEORA do Linkin Park" min-width="300px" max-width="300px" width="300px" align="right">
+<img align="right" width="500" alt="Shimarin" src="https://i.pinimg.com/736x/7f/41/34/7f4134bef3c67a0b3acfea645a999871.jpg"/>
 
-<p align="left"> 
-  
-```csharp
-import Developer from 'ryujin-p';
-class AboutMe extends Developer{
-  constructor(){
-    super({
-      name: 'Miles Jesus',
-      location: 'São Paulo-SP',
-      traits: ['CleanCode','ProblemSolver','GuitarPlayer']
-    });
-  }
-  
-  currentWork(){
-    return this.freelance ? 'Building scalable systems':
-    'Open to new challenges';
-  }
-}
-````
-</p>
+```diff
++   Responsible worker.
++   Computer Science Student at ENIAC.
+-   I like creating web pages :D
+!   If you can imagine it, you can program it. 
+@@  I play the guitar sometimes ;) @@
+```
 
 ###
 
-<h2 align="left">{} Stacks</h2>
+<h3 align="left">{} Stacks</h3>
 
 ###
 
@@ -72,7 +62,7 @@ class AboutMe extends Developer{
 
 ###
 
-<h2 align="left">🛠 Tools</h2>
+<h3 align="left">🛠 Tools</h3>
 
 ###
 
@@ -97,7 +87,7 @@ class AboutMe extends Developer{
 
 ###
 
-<h2 align="left">📚 Libraries & Frameworks</h2>
+<h3 align="left">📚 Libraries & Frameworks</h3>
 
 ###
 
